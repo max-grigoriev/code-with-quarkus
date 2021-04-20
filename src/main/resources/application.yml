@@ -1,0 +1,7 @@
+segments:
+  default: casual
+  items:
+    - name: qsr
+      keywords:
+        - test1
+        - test2
